@@ -13,7 +13,7 @@ The paper is is currently under second review.
 ```
 @article{PIL-SPR,
   title={Theory-Guaranteed Physics-Informed Learning via Parameter Subspace Optimization},
-  author={Zhang, Yabin and Deng, Liang-Jian and Boyu Wang and Charles Ling},
+  author={Zhang, Yabin and Deng, Liang-Jian and Wang, Boyu and Ling, Charles},
   journal={Under Review},
   volume={},
   pages={},
